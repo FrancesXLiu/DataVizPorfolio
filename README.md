@@ -4,7 +4,7 @@
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-👋 Hi, I'm Xiaohan Liu (She/Her). 
+👋 Hi, I'm Xiaohan Liu (She/Her). <br/>
 I’m passionate about data visualization and love experimenting with different types of charts to help the target audience gain valuable insights from the data. I’m also really into UI/UX design, and I enjoy focusing on the details to make sure the audience has the best and clearest experience. On top of that, I’m a big fan of creating interactive data visualizations, especially when I get to write the code myself. I’ve worked with JavaScript and Blazor to build real-time, interactive dashboards for the web.
 
 # What I hope to learn
