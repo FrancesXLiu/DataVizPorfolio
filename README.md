@@ -15,8 +15,6 @@ I’m passionate about data visualization and love experimenting with different 
 
 
 # Portfolio
-
-# Examples
 I'll update the section later in this course :)
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
