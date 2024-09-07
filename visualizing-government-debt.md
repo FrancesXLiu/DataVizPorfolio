@@ -8,7 +8,10 @@ _Include your visualization, and introduce us to what you did._
 
 ## Working with Tableau
 
-_A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
+_This chart shows government debt as a percentage of GDP for each country for the period from 1995 to 2019, my data source was a CSV file downloaded from canvas and then this heatmap was created using the highlight table in Tableau.
+
+The use of colour in this chart helps us to quickly compare government debt levels across countries. Blue represents a lower percentage of debt, while orange represents a higher percentage of debt. The transition of colours from blue to orange represents an increase in government debt as a percentage of GDP. The heatmap allows us to visualise the debt of each country in different years, and the change in colour makes comparisons between countries easier. For example, Japan's government debt level has increased year on year from 1995 to 2018 and the colour has become more and more orange. The countries in the lower half of the chart do not have high levels of debt, so most of their grids are blue.
+_
 <div class='tableauPlaceholder' id='viz1725748101948' style='position: relative'><noscript><a href='#'><img
                 alt='General government debt% of GDP, 2022General government debt (no date) OECD. Available at: https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html (Accessed: 07 September 2024).  '
                 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;Generalgovernmentdebt_17257480877540&#47;Generalgovernmentdebt&#47;1_rss.png'
