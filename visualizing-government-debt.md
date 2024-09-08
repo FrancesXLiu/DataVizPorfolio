@@ -12,7 +12,7 @@ _This chart shows government debt as a percentage of GDP for each country for th
 
 _The use of colour in this chart helps us to quickly compare government debt levels across countries. Blue represents a lower percentage of debt, while orange represents a higher percentage of debt. The transition of colours from blue to orange represents an increase in government debt as a percentage of GDP. The heatmap allows us to visualise the debt of each country in different years, and the change in colour makes comparisons between countries easier. For example, Japan's government debt level has increased year on year from 1995 to 2018 and the colour has become more and more orange. The countries in the lower half of the chart do not have high levels of debt, so most of their grids are blue._
 <div class='tableauPlaceholder' id='viz1725748101948' style='position: relative'><noscript><a href='#'><img
-                alt='General government debt% of GDP, 2022General government debt (no date) OECD. Available at: https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html (Accessed: 07 September 2024).  '
+                alt='General government debt% of GDP, 2019General government debt (no date) OECD. Available at: https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html (Accessed: 07 September 2024).  '
                 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;Generalgovernmentdebt_17257480877540&#47;Generalgovernmentdebt&#47;1_rss.png'
                 style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
@@ -43,7 +43,7 @@ _The use of colour in this chart helps us to quickly compare government debt lev
 
 ## Part three: create your own visualization
 <div class='tableauPlaceholder' id='viz1725762007642' style='position: relative'><noscript><a href='#'><img
-                alt='General government debt% of GDP, 2022General government debt (no date) OECD. Available at: https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html (Accessed: 07 September 2024).  '
+                alt='General government debt% of GDP, 2019General government debt (no date) OECD. Available at: https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html (Accessed: 07 September 2024).  '
                 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;Generalgovernmentdebt-Map&#47;Generalgovernmentdebt2&#47;1_rss.png'
                 style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
