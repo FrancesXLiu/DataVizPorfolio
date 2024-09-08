@@ -42,7 +42,7 @@ _The use of colour in this chart helps us to quickly compare government debt lev
 </script>
 
 ## Part three: create your own visualization
-<div class='tableauPlaceholder' id='viz1725822316751' style='position: relative'><noscript><a href='#'><img
+<div class='tableauPlaceholder' id='viz1725822560283' style='position: relative'><noscript><a href='#'><img
                 alt='General government debt% of GDP, 2019General government debt (no date) OECD. Available at: https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html (Accessed: 07 September 2024).  '
                 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;Generalgovernmentdebt-Map&#47;Generalgovernmentdebt-map&#47;1_rss.png'
                 style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
@@ -62,7 +62,7 @@ _The use of colour in this chart helps us to quickly compare government debt lev
         <param name='filter' value='publish=yes' />
     </object></div>
 <script type='text/javascript'>
-    var divElement = document.getElementById('viz1725822316751');
+    var divElement = document.getElementById('viz1725822560283');
     var vizElement = divElement.getElementsByTagName('object')[0];
     vizElement.style.width = '100%';
     vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
