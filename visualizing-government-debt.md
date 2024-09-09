@@ -5,6 +5,7 @@
 ## Part one: Working with web-based visualization tools and data
 <img src="A1 Part 1 Sreenshot.png" width="500"/>
 _This is a bar chart showing government debt as a percentage of GDP for each country in 2022. The differences in debt ratios between countries can be seen at a glance by using the bar chart. The height of the bar chart represents the level of debt for each country. Higher bars (e.g., Japan) represent higher debt ratios, while lower bars (e.g., South Korea) indicate lower debt ratios. This visualisation makes the differences between countries visible._
+_I took a screenshot of the bar chart from the website instead of downloading the PNG file. The website freezes every time when I try to download the PNG file._
 
 Translated with www.DeepL.com/Translator (free version)
 
