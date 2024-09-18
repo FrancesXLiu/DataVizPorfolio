@@ -2,10 +2,6 @@
 
 # Critique by Design with Tableau (MakeoverMonday)
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
-
 ## Step one: the visualization
 <img src="A3 A4 original chart.png" width=550px />
 https://data.world/makeovermonday/2023w8
@@ -106,7 +102,9 @@ I also received suggestions that the three commonly used sources of protein in e
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+<br />
+I made a number of changes to the chart to enhance its functionality and aesthetics while ensuring that the message was clearly communicated. Firstly, I changed the original vertical bar chart to a horizontal bar chart so that the labels did not need to be rotated 90 degrees, greatly improving readability. Additionally, I updated the title of the chart to de-emphasise which food is more affordable, instead presenting a more neutral picture of the possibilities of comparing their prices and making it clear in the subtitle that this is the price per 20 grams of protein, making the basis for calculating the data much clearer.
 
+Regarding the visual design, I resized the labels to make them easier to read. In terms of colours, I chose colours that are intuitively associated with the type of food: pink for red meat is used to label meat, green for vegetables is used to label vegan food, and blue is used to denote vegetarian food, which not only helps readers to identify the food group based on the colours, but at the same time ensures sufficient colour differentiation.
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
+Additionally, although the left side of the bar chart already had labels for the categories, I kept the interactive categorisation legend on the right side. This legend allows the user to filter the data by clicking on the categories in the legend if they only want to see data from a specific category, adding to the interactivity of the chart. Finally, I've added a new ‘Toggle Category’ control that allows the user to select ‘Show in categories’ to view the data by category, with each category internally sorted by price, or ‘Show all’ to unselect it. ‘Show all’ to uncategorise and sort all foods as a whole by price. This enhances the flexibility of the chart and allows the user to adjust the view as needed for more comprehensive price comparisons. These enhancements are all designed to make the chart more user-friendly while providing an accurate and useful visual presentation of the data.
