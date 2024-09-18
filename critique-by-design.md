@@ -104,6 +104,7 @@ I also received suggestions that the three commonly used sources of protein in e
 </script>
 
 (Data source: 2023/W8: The Cheapest Ways to Get Your Protein - dataset by makeovermonday. (2024, September 13). data.world. https://data.world/makeovermonday/2023w8)
+
 <br />
 I made a number of changes to the chart to enhance its functionality and aesthetics while ensuring that the message was clearly communicated. Firstly, I changed the original vertical bar chart to a horizontal bar chart so that the labels did not need to be rotated 90 degrees, greatly improving readability. Additionally, I updated the title of the chart to de-emphasise which food is more affordable, instead presenting a more neutral picture of the possibilities of comparing their prices and making it clear in the subtitle that this is the price per 20 grams of protein, making the basis for calculating the data much clearer.
 
