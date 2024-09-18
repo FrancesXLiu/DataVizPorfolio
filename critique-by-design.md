@@ -16,7 +16,7 @@ However, this chart is still slightly flawed in some design elements, so there i
 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
 | Usefulness     	| 8  	|
 | Completeness   	| 6  	|
 | Perceptibility 	| 5  	|
@@ -24,6 +24,7 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 | Intuitiveness  	| 10 	|
 | Aesthetics     	| 8  	|
 | Engagement     	| 7  	|
+
 An overview of my reasons for scoring: firstly, the chart does a good job of showing the cost per 30g of protein in different food products, effectively conveying the cost information through a visual bar chart. In particular, the appropriate use of colour and layout makes the information easy to understand at a glance. This approach is ideal for fitness enthusiasts, dietitians and health-conscious consumers on a budget, who can quickly compare the cost-effectiveness of different foods to make more informed dietary choices.
 <br />
 However, the charts have some shortcomings in terms of completeness and perceptibility. For example, while the charts provide cost and calorie data, they lack information on currency units and data collection times-the price of a food is tied to the geographic location of purchase, and the time of data collection. In addition, certain design choices, such as the size and placement of food pictures, may interfere with the accurate reading of the data. The chart's Y-axis labels are placed vertically, requiring readers to tilt their heads in order to read them, and the placement of food names on the X-axis requires more visual movement on the part of the user; these design issues may reduce the chart's perceptual efficiency.
