@@ -18,6 +18,7 @@ However, this chart is still slightly flawed in some design elements, so there i
 ## Step two: the critique
 
 | Usefulness     	| 8  	|
+|-----------------|-----|
 | Completeness   	| 6  	|
 | Perceptibility 	| 5  	|
 | Truthfulness   	| 8  	|
