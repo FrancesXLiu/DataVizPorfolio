@@ -1,7 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# [Title](https://data.world/makeovermonday/2023w8)
-Critique by Design with Tableau (MakeoverMonday)
+# Critique by Design with Tableau (MakeoverMonday)
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
@@ -57,9 +56,20 @@ Results:
 | Who do you think is the intended audience for this?   	| Should the target audience be people who are conscious of their protein intake and at the same  time price concerned? But I think people who are very conscious of their protein intake might not  be such a price sensitive group, maybe also people who, for example, provide healthy public service  meals for children, similar public service organisations or policy makers.              	| The intended audience might be people who want to build muscles or are on a diet. They are looking for cheaper substitutes for their meal preparation since healthy, unprocessed food might be more expensive.                                                                                                                                  	|
 | Is there anything you would change or do differently? 	| I think there is room for optimisation for some labels, such as 80/20 beef, which is a bit difficult  to understand the expression, as well as this label vertically, too small a bit not readable, the  text part of the feeling can be a bit larger, and then those few with a percentage of the beef  similar and difficult to understand the words, why not find a way to synthesise a bar? 	| I would change list out the 3 most common proteins in regular meal preparation in each category and compare their prices.  I would also make the title bigger.  I would change the data labels to images of the food maybe.                                                                                                                     	|
 
-Synthesis: 
+Another great piece of advice I got in the class critique was that all the bars are currently sorted inside their respective categories. Readers might also want to know the sorting by price along all foods.
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Synthesis: 
+Both respondents were able to understand that the charts show a comparison of the cost of protein in different types (meat, vegetarian, vegan) of food. They both mentioned that the chart shows the cost based on 20 grams of protein.
+Both interviewees mentioned a possible misconception that although plant-based proteins are cheaper than meat proteins, they may not necessarily be more affordable in an actual diet because of the typically lower protein content in plant-based foods.
+Both interviewees suggested optimising the label size of the charts to make them easier to read.
+The first interviewee suggested that the target audience might include people who are sensitive to both protein intake and price, possibly organisations or policy makers who provide public health catering. The second interviewee, on the other hand, thought the target audience for the charts was muscle builders who were looking for healthy, economical meal options or those who were dieting.
+My change plan:
+<br />
+Firstly, I will resize and orientate the data labels to make them more readable. I will also rewrite the chart titles so that they more accurately reflect the core of the chart.
+
+I have decided against the suggestion of combining the data for beef with three different fat contents. I think the difference in fat content is an important piece of information for our target audience - fitness enthusiasts and dietitians - so it's important to keep those details. Additionally, with regard to the suggestion to replace the text labels with images of food, whilst this would add visual appeal, I chose to continue with the text labels given the potential for unclear messaging that could result.
+
+I also received suggestions that the three commonly used sources of protein in each food group should be listed. However, I was unable to achieve this due to not being able to find a reliable enough data source to pinpoint the three most commonly consumed foods in each category. Finally, based on my classmate's suggestion in the in-class critique, I plan to explore a way to enhance the interactivity and informational value of the chart by not only displaying the sorting within each category, but also the overall price sorting of all the food items when necessary. This will allow users to customise the view to suit their needs, whether they are looking at comparisons within categories or an overall cost-benefit analysis.
 
 ## Step five: build the solution
 
