@@ -20,10 +20,15 @@ However, this chart is still slightly flawed in some design elements, so there i
 | Usefulness     	| 8  	|
 |-----------------|-----|
 | Completeness   	| 6  	|
+|-----------------|-----|
 | Perceptibility 	| 5  	|
+|-----------------|-----|
 | Truthfulness   	| 8  	|
+|-----------------|-----|
 | Intuitiveness  	| 10 	|
+|-----------------|-----|
 | Aesthetics     	| 8  	|
+|-----------------|-----|
 | Engagement     	| 7  	|
 
 An overview of my reasons for scoring: firstly, the chart does a good job of showing the cost per 30g of protein in different food products, effectively conveying the cost information through a visual bar chart. In particular, the appropriate use of colour and layout makes the information easy to understand at a glance. This approach is ideal for fitness enthusiasts, dietitians and health-conscious consumers on a budget, who can quickly compare the cost-effectiveness of different foods to make more informed dietary choices.
