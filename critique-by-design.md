@@ -31,7 +31,7 @@ However, the charts have some shortcomings in terms of completeness and percepti
 
 
 ## Step three: Sketch a solution
-<img src="A3 A4 sketch.png" width=550px />
+<img src="A3 A4 sketch.png" />
 
 ## Step four: Test the solution
 
