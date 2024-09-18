@@ -35,9 +35,7 @@ However, the charts have some shortcomings in terms of completeness and percepti
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
+Questions to ask: 
 
 - Can you tell me what you think this is?
 
@@ -51,14 +49,13 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Question                                              	| Interview 1                                                                                                                                                                                                                                                                                                                                                                                     	| Interview 2                                                                                                                                                                                                                                                                                                                                     	|
+|-------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Can you tell me what you think this is?               	| Here's a bar graph comparing protein spend per 20g for meat, vegan and vegetarian foods.                                                                                                                                                                                                                                                                                                        	| This is a graph showing the average cost of different proteins. The proteins are divided into meat, vegan,  and vegetarian.                                                                                                                                                                                                                     	|
+| Can you describe to me what this is telling you?      	| It goes to show that most meat protein is more expensive than vegan and vegetarian.                                                                                                                                                                                                                                                                                                             	| It tells me vegan and vegetarian proteins are cheaper than meat in general, but there are fewer options.                                                                                                                                                                                                                                        	|
+| Is there anything you find surprising or confusing?   	| I was thinking when I was looking at this picture, it seems that adults need to consume  roughly 50g of protein a day, so if I consume meat am I fine with a little bit of it, but  with plant-based foods I need to eat a lot of it because they don't contain the same amount  of protein. So if that's the case, it doesn't seem to follow that plant-based is more AFFORDABLE.              	| I am surprised that check legs, chicken breasts, and tuna are really cheap, actually. And they are more  affordable than extra-firm tofu. What I found confusing is the quantity. How do you measure 20g of proteins?  Is it 20g of the food? or is it 20g of proteins in the food? And How much protein does a regular person need in one day? 	|
+| Who do you think is the intended audience for this?   	| Should the target audience be people who are conscious of their protein intake and at the same  time price concerned? But I think people who are very conscious of their protein intake might not  be such a price sensitive group, maybe also people who, for example, provide healthy public service  meals for children, similar public service organisations or policy makers.              	| The intended audience might be people who want to build muscles or are on a diet. They are looking for cheaper substitutes for their meal preparation since healthy, unprocessed food might be more expensive.                                                                                                                                  	|
+| Is there anything you would change or do differently? 	| I think there is room for optimisation for some labels, such as 80/20 beef, which is a bit difficult  to understand the expression, as well as this label vertically, too small a bit not readable, the  text part of the feeling can be a bit larger, and then those few with a percentage of the beef  similar and difficult to understand the words, why not find a way to synthesise a bar? 	| I would change list out the 3 most common proteins in regular meal preparation in each category and compare their prices.  I would also make the title bigger.  I would change the data labels to images of the food maybe.                                                                                                                     	|
 
 Synthesis: 
 
