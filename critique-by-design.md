@@ -16,8 +16,9 @@ However, this chart is still slightly flawed in some design elements, so there i
 
 
 ## Step two: the critique
+
 | Measure         |Score|
-|-----------------|-----|
+|---------------  |---  |
 | Usefulness     	| 8  	|
 | Completeness   	| 6  	|
 | Perceptibility 	| 5  	|
@@ -75,7 +76,7 @@ I also received suggestions that the three commonly used sources of protein in e
 
 ## Step five: build the solution
 
-<div class='tableauPlaceholder' id='viz1726635497284' style='position: relative'><noscript><a href='#'><img
+<div class='tableauPlaceholder' id='viz1726636768862' style='position: relative'><noscript><a href='#'><img
                 alt='Compare Your Costs: Plant-Based vs. Meat Proteins at 20g IntakeDetailed Price Breakdown Per 20g of Protein Across Various Foods '
                 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;Step3_17266295354720&#47;SecondEdit&#47;1_rss.png'
                 style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
@@ -96,7 +97,7 @@ I also received suggestions that the three commonly used sources of protein in e
         <param name='filter' value='publish=yes' />
     </object></div>
 <script type='text/javascript'>
-    var divElement = document.getElementById('viz1726635497284');
+    var divElement = document.getElementById('viz1726636768862');
     var vizElement = divElement.getElementsByTagName('object')[0];
     vizElement.style.width = '100%';
     vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
@@ -104,6 +105,8 @@ I also received suggestions that the three commonly used sources of protein in e
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
