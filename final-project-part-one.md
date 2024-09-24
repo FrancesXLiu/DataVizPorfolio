@@ -5,12 +5,10 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project.
 In my final project, I will focus on demonstrating demographic trends in New Zealand, particularly differences in fertility rates between ethnic groups. With the general decline in fertility rates globally, New Zealand's total population growth is also facing serious challenges, particularly with the gradual slowdown in birth rates for Pākehā (European New Zealanders) and other non-Māori ethnic groups, which have fallen below population replacement levels. However, Māori fertility rates remain high, which creates a different dynamic in New Zealand's overall demographic trends.
 
 Through this project, I hope to visualise changes in the fertility rates of New Zealand's different ethnic groups and the impact of these changes on the country's demographics. I will focus on why Māori ethnicity has relatively high fertility rates, analysing the cultural, social and economic factors behind this and showing how these fertility patterns contrast with the fertility trends of other ethnicities. My goal is to tell the story of the complexities of New Zealand's response to demographic challenges through data visualisations, and in particular how policy interventions can balance fertility differences between ethnicities to ensure the country's long-term demographic sustainability.
- 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
+
 
 ## Project Structure:
 ### Introduction: Setting the Scene
@@ -43,6 +41,7 @@ Highlight potential solutions to New Zealand's demographic challenges. Discuss g
 #### Charts:
 - A timetable or roadmap for policy interventions aimed at increasing New Zealand's birth rate, with particular attention to initiatives targeting Māori and other ethnic groups.
 
+<img src="Story Arc.jpg" width=500px />
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
