@@ -41,7 +41,7 @@ Highlight potential solutions to New Zealand's demographic challenges. Discuss g
 #### Charts:
 - A timetable or roadmap for policy interventions aimed at increasing New Zealand's birth rate, with particular attention to initiatives targeting Māori and other ethnic groups.
 
-<img src="Story Arc.jpg" width=500px />
+<img src="Story Arc.jpg" />
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
