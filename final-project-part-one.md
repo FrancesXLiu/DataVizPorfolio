@@ -2,8 +2,6 @@
 
 # Diverging Demographics: How Māori Birth Rates Sustain New Zealand’s Population Amid a National Fertility Decline
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 In my final project, I will focus on demonstrating demographic trends in New Zealand, particularly differences in fertility rates between ethnic groups. With the general decline in fertility rates globally, New Zealand's total population growth is also facing serious challenges, particularly with the gradual slowdown in birth rates for Pākehā (European New Zealanders) and other non-Māori ethnic groups, which have fallen below population replacement levels. However, Māori fertility rates remain high, which creates a different dynamic in New Zealand's overall demographic trends.
 
@@ -20,7 +18,6 @@ Begin with a striking contrast: New Zealand's national fertility rate is in stee
 ### Increased tensions: population decline
 Overall population growth in New Zealand is under pressure due to declining birth rates among Pākehā (New Zealand Europeans) and other ethnic groups. The economic and social impacts of this trend are highlighted - an ageing population, a shrinking labour force, and fewer children in school.
 #### Charts:
-- Bar charts showing the decline in fertility for all ethnic groups in New Zealand, with particular attention to the low fertility of Pākehā, Asians and Pacific Islanders, in contrast to Māori fertility trends.
 - The population pyramid chart illustrates the age structure of New Zealand's different ethnic groups, particularly the trend towards increased ageing, highlighting the impact of declining birth rates on the future labour force.
 - Compare labour force participation rates and the proportion of the population of women of childbearing age by ethnicity show how declining fertility affects future economic development and social welfare systems.
 
@@ -44,9 +41,15 @@ Highlight potential solutions to New Zealand's demographic challenges. Discuss g
 <img src="Story Arc.jpg" />
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+<img src="proj_part1_line.jpg" />
+<img src="proj_part1_pyramid.jpg" />
+<img src="proj_part1_stacked_area.jpg" />
+<img src="proj_part1_map.jpg" />
+<img src="proj_part1_radar.jpg" />
+<img src="proj_part1_sankey.jpg" />
+<img src="proj_part1_heatmap.jpg" />
+<img src="proj_part1_roadmap.jpg" />
 
-Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
