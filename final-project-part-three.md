@@ -28,9 +28,12 @@ In Part 3 I did not make changes to my target audience. My target audience group
 Text here!
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+In the Changes made since Part II section, I've discussed changes to the content and analysis. I will focus on the visualisation design decisions I made in this part.
+I decided to use red, black and white as the theme colours for the project, these are the national colours of the Maori people and the Maori version of the New Zealand flag is made up of these three colours. Black As the background and main colour for the storyboard, as black symbolises strength and respect in Māori culture and is also closely associated with Māori traditions. Red As the highlight colour, it is used primarily to highlight important information, as it contrasts with black, and because red symbolises vitality and energy in Māori culture, it also makes key data more visible.
+![image](https://github.com/user-attachments/assets/319a3e1b-83df-4ca9-9103-e53a00cfd81f)
 
-Text here!
+For the colour scheme of the map, I chose to avoid the use of red and black. Although these colours are the thematic colours of the project, the use of red to mark areas on the map could send a message of ‘warning’ or ‘danger’, which is not what I wanted to convey. I didn't want to directly associate ‘low fertility’ with a negative connotation, so I chose the more neutral colours of blue and orange to represent fertility rates in different areas.
+
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
