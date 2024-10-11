@@ -16,9 +16,11 @@ I realised that some of the text was too long, especially when explaining the re
 4. Adding Call to Action
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
+In Part 3 I did not make changes to my target audience. My target audience groups are:
+- Policymakers: I targeted policymakers as a target audience because they are interested in New Zealand's demographic trends and are in a position to develop relevant policies to address declining fertility. In my interview, I had an in-depth discussion with a future policymaker. She provided valuable feedback on my storyboards from both a policy and social support perspective, allowing me to better integrate these factors into my presentation of fertility issues.
+- Māori people: Māori people are another important target audience for me as my version of the story analyses the cultural, social and economic factors associated with Māori fertility. I interviewed a Māori male university student who provided some insight into the influence of family and community on fertility decisions. However, I realised that if I had been able to interview a Māori female, her feedback may have been more in-depth, particularly in relation to women's fertility decisions, but due to time constraints I was unable to do so.
+- Pākehā (Europeans) and other ethnic groups in New Zealand of childbearing age: Pākehā and other ethnic groups of childbearing age are similarly my target audience as they are facing the direct effects of declining fertility. I interviewed an Asian mum-to-be about the quality of education and the cost of childcare in New Zealand, and in particular how these factors affected her decision-making about childbearing. Her feedback made me realise that apart from economic factors, the quality of education is also an important variable in influencing fertility, so I included an elaboration on this point in Part 3.
+- Social service organisations: Social service organisations, as agencies that provide support to families, women and children, are one of my target audiences as they can increase fertility rates through more effective services. I was not able to interview the staff of social service organisations due to a lack of contacts from the people involved.
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
