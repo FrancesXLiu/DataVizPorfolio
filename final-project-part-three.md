@@ -23,15 +23,14 @@ In Part 3 I did not make changes to my target audience. My target audience group
 ## Final design decisions
 In the Changes made since Part II section, I've discussed changes to the content and analysis. I will focus on the visualisation design decisions I made in this part.
 I decided to use red, black and white as the theme colours for the project, these are the national colours of the Maori people and the Maori version of the New Zealand flag is made up of these three colours. Black As the background and main colour for the storyboard, as black symbolises strength and respect in Māori culture and is also closely associated with Māori traditions. Red As the highlight colour, it is used primarily to highlight important information, as it contrasts with black, and because red symbolises vitality and energy in Māori culture, it also makes key data more visible.
-![image](https://github.com/user-attachments/assets/319a3e1b-83df-4ca9-9103-e53a00cfd81f)
+<img src="https://github.com/user-attachments/assets/319a3e1b-83df-4ca9-9103-e53a00cfd81f" height=30vh />
 
 For the colour scheme of the map, I chose to avoid the use of red and black. Although these colours are the thematic colours of the project, the use of red to mark areas on the map could send a message of ‘warning’ or ‘danger’, which is not what I wanted to convey. I didn't want to directly associate ‘low fertility’ with a negative connotation, so I chose the more neutral colours of blue and orange to represent fertility rates in different areas.
 
 ## References
-
+I have detailed citations for all the data used at the end of the Shorthand storyboard. All images used are from Unsplash, so there are no copyright issues. The only exception to this is my use of an oil painting depicting a Maori woman carrying a child. This painting is in the Public Domain, so there are no copyright issues. I have clearly labelled the author and the title of the painting at the bottom of that image.
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+In addition to the challenges mentioned earlier in this section, I also encountered problems with data access. My primary data sources were StatsNZ and New Zealand's census data, both of which have a high level of data accuracy and coverage, but the migration-related data that I had originally wanted to discuss in more depth was not found on these platforms. I also attempted to find relevant data on Immigration New Zealand's Migration Data Explorer platform, but again, I was unable to find the topics or specific statistics I was looking for.
+In order to fill this data gap, I also attempted to review some relevant papers to see if I could use the data contained therein. Unfortunately, due to the limited academic resources in New Zealand, especially the fact that New Zealand, as a smaller country with only nine universities, has a relatively small base of academic research, it resulted in my failure to find sufficiently rich data on indigenous research.
