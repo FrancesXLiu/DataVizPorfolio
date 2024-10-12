@@ -23,6 +23,7 @@ In Part 3 I did not make changes to my target audience. My target audience group
 ## Final design decisions
 In the Changes made since Part II section, I've discussed changes to the content and analysis. I will focus on the visualisation design decisions I made in this part.
 I decided to use red, black and white as the theme colours for the project, these are the national colours of the Maori people and the Maori version of the New Zealand flag is made up of these three colours. Black As the background and main colour for the storyboard, as black symbolises strength and respect in Māori culture and is also closely associated with Māori traditions. Red As the highlight colour, it is used primarily to highlight important information, as it contrasts with black, and because red symbolises vitality and energy in Māori culture, it also makes key data more visible.
+
 <img src="https://github.com/user-attachments/assets/319a3e1b-83df-4ca9-9103-e53a00cfd81f" height=30vh />
 
 For the colour scheme of the map, I chose to avoid the use of red and black. Although these colours are the thematic colours of the project, the use of red to mark areas on the map could send a message of ‘warning’ or ‘danger’, which is not what I wanted to convey. I didn't want to directly associate ‘low fertility’ with a negative connotation, so I chose the more neutral colours of blue and orange to represent fertility rates in different areas.
